@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 4px;
-  background: #5cb874;
+  background: #616863;
   color: #fff;
   transition: all 0.4s;
 }
@@ -131,7 +131,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo a {
-  color: #5cb874;
+  color: #d3632f;
 }
 
 #header .logo img {
@@ -178,7 +178,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #5cb874;
+  color: #000000;
 }
 
 .nav-menu .drop-down ul {
@@ -273,7 +273,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .get-started-btn:hover {
-  background: #5cb874;
+  background: #e96a16;
   color: #fff;
 }
 
@@ -415,7 +415,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .carousel-item::before {
   content: '';
-  background-color: rgba(45, 103, 60, 0.8);
+  background-color: rgba(238, 163, 78, 0.8);
 }
 
 #hero .carousel-container {
@@ -532,7 +532,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  background: #5cb874;
+  background: #f39a15;
 }
 
 #hero .btn-get-started:hover {
@@ -1517,3 +1517,6 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+
+
